@@ -2,7 +2,8 @@
 
 """
 Write a function called lognlengths that returns the lengths of those strings that have at least 4 characters.
-Try it with a list comprehension
+Try it with a list comprehension:
+[<transformer_expression> for <loop_var> in <sequence> if <filtration_expression>]
 """
 
 def longlengths1(strings):
